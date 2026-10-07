@@ -8,6 +8,7 @@ solving problems of dsa
 | ------- |
 | [0001-two-sum](https://github.com/vaibhavgangwar081-ops/Leetcode-/tree/master/0001-two-sum) |
 | [0048-rotate-image](https://github.com/vaibhavgangwar081-ops/Leetcode-/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/vaibhavgangwar081-ops/Leetcode-/tree/master/0054-spiral-matrix) |
 ## Hash Table
 |  |
 | ------- |
@@ -20,4 +21,9 @@ solving problems of dsa
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/vaibhavgangwar081-ops/Leetcode-/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/vaibhavgangwar081-ops/Leetcode-/tree/master/0054-spiral-matrix) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/vaibhavgangwar081-ops/Leetcode-/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
